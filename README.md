@@ -1,2 +1,2 @@
-# mobilefruit_writer-theme
-Ryuzine Writer tabbed version of the Mobilefruit theme.
+# mobilefruit_writer
+A tabbed theme for Ryuzine Writer based on the Mobilefruit theme.
